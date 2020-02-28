@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="320a42f5-c07b-43f1-ae29-2236cf5230d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YR12kPOEWevXc6iXLSEMQRzTwq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.12.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm -v" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="320a42f5-c07b-43f1-ae29-2236cf5230d8" name="Default Changelist" comment="" />
+      <created>1582890387341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582890387341</updated>
+      <workItem from="1582890388485" duration="152000" />
+      <workItem from="1582890795550" duration="8325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="902" height="275" key="GridCell.Tab.0.bottom" timestamp="1582893158899">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1582893158899" />
+    <state width="902" height="275" key="GridCell.Tab.0.center" timestamp="1582893158899">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1582893158899" />
+    <state width="902" height="275" key="GridCell.Tab.0.left" timestamp="1582893158899">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1582893158899" />
+    <state width="902" height="275" key="GridCell.Tab.0.right" timestamp="1582893158899">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1582893158899" />
+    <state x="1121" y="252" width="672" height="677" key="run.anything.popup" timestamp="1582893155484">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1121" y="252" width="672" height="677" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1582893155484" />
+    <state x="1120" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1582893135092">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1120" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1582893135092" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/fxtra.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
